@@ -52,4 +52,6 @@ Chỉnh sửa nội dung file `mcp.json` vừa được mở ra với cấu hìn
 - Lưu file `mcp.json`.
 - Quay lại mục **Tools & Integrations** trong **Settings**.
 - Kích hoạt (active) MCP server bạn vừa tạo.
-- Bây giờ bạn có thể bắt đầu sử dụng các tính năng của Figma trong Cursor!
+- Bây giờ bạn có thể bắt đầu sử dụng được rồi.
+
+# Let's Code!!!
